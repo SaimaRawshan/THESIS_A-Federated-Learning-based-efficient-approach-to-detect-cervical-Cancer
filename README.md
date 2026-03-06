@@ -76,7 +76,10 @@ Training configuration:
 - Communication rounds:
   - IID: 25–200
   - Non-IID: 50
-- Hardware: NVIDIA RTX 4080 Super GPU
+- Hardware:
+    - NVIDIA RTX 4080 Super GPU
+    - WSL2
+           
 
 ## Results
 
